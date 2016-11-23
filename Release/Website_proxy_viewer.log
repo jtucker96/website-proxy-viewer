@@ -1,0 +1,19 @@
+﻿Build started 9/12/2013 8:40:23 p.m..
+     1>Project "C:\Users\James\Desktop\Proxy web-page, viewer\Website_proxy_viewer\Website_proxy_viewer\Website_proxy_viewer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\Website_proxy_viewer.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Functions.cpp Generates.cpp Obtains.cpp main.cpp
+         Functions.cpp
+     1>c:\users\james\desktop\proxy web-page, viewer\website_proxy_viewer\website_proxy_viewer\Definitions.h(8): fatal error C1083: Cannot open include file: 'curl.h': No such file or directory
+         Generates.cpp
+     1>c:\users\james\desktop\proxy web-page, viewer\website_proxy_viewer\website_proxy_viewer\Definitions.h(8): fatal error C1083: Cannot open include file: 'curl.h': No such file or directory
+         Obtains.cpp
+     1>c:\users\james\desktop\proxy web-page, viewer\website_proxy_viewer\website_proxy_viewer\Definitions.h(8): fatal error C1083: Cannot open include file: 'curl.h': No such file or directory
+         main.cpp
+     1>c:\users\james\desktop\proxy web-page, viewer\website_proxy_viewer\website_proxy_viewer\Definitions.h(8): fatal error C1083: Cannot open include file: 'curl.h': No such file or directory
+     1>Done Building Project "C:\Users\James\Desktop\Proxy web-page, viewer\Website_proxy_viewer\Website_proxy_viewer\Website_proxy_viewer.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.91
